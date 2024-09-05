@@ -16,7 +16,7 @@ I’m a passionate Computer Science student at Athens University of Economics an
 
 
 ### Projects & Work
-You can find my projects [here](https://github.com/yourusername). I enjoy working on:
+You can find my projects [here](https://github.com/S-Achilleas?tab=repositories). I enjoy working on:
 - AI-driven applications
 - Full-stack web development (front-end: HTML, CSS, back-end: Java)
 

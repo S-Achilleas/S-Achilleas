@@ -1,29 +1,24 @@
-# Hi there, I'm Achilleas 👋
+# Hi, I'm Axilleas! 👋
 
- **Aspiring Software Engineer | AI Enthusiast | CS Student at AUEB**
+## About Me
 
-I’m a passionate Computer Science student at Athens University of Economics and Business (AUEB) with a keen interest in **Artificial Intelligence**, **Software Engineering**, and the world of **new technologies**. My mission is to create innovative solutions and contribute to the world of technology with my growing skill set.
+I’m a **Computer Science student at AUEB**, currently in my second year. I'm passionate about **Software Engineering** and **Game Development** and love to explore new technologies. While I have a strong interest in **Artificial Intelligence** and **Data Science**, I’m currently focused on honing my programming and project-building skills.
 
-### Technologies & Tools
-- **Programming Languages**: Java, Python, C++ (beginner), HTML, CSS
-- **Data Science & AI**: Currently working on the **IBM Professional Certificate in Data Science**
-- **Tools**: Git, VSCode, Linux commands
+## Interests and Skills
 
-###  What I'm learning
-- **Deepening my C++ skills** and understanding system-level programming
-- **Advancing in Data Science** through practical projects as part of the IBM certification
-- **Exploring AI** to dive deeper into machine learning and natural language processing
+- **Programming Languages**: Python, Java, C++ (beginner), HTML, CSS
+- **Projects**: I'm actively building and experimenting with:
+  - **File Management Automation** scripts for efficient file handling.
+  - **Data Scraping** and automation tools.
 
+## Tools and Technologies
 
-### Projects & Work
-You can find my projects [here](https://github.com/S-Achilleas?tab=repositories). I enjoy working on:
-- AI-driven applications
-- Full-stack web development (front-end: HTML, CSS, back-end: Java)
-
+- **Git & GitHub**: Version control and collaboration.
+- **Linux**: Command-line tools for efficient development.
+- **Python Development**: Building projects and automating tasks.
 
 ### Education & Certificates
 - **BSc in Computer Science**, AUEB (In Progress)
-- **IBM Professional Certificate in Data Science** (In Progress)
 
 ### Let's Connect!
 - Email: sarraxilleas@gmail.com

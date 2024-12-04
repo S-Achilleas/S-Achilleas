@@ -6,16 +6,17 @@ I’m a **Computer Science student at AUEB**, currently in my second year. I'm p
 
 ## Interests and Skills
 
-- **Programming Languages**: Python, Java, C++ (beginner), HTML, CSS
+- **Programming Languages**: Python, Java, C++, HTML, CSS
 - **Projects**: I'm actively building and experimenting with:
   - **File Management Automation** scripts for efficient file handling.
   - **Data Scraping** and automation tools.
+  - **Data Structures** creating and using them to solve real world problems
+  - **Game Developemnt** building an arcade game 
 
 ## Tools and Technologies
 
 - **Git & GitHub**: Version control and collaboration.
 - **Linux**: Command-line tools for efficient development.
-- **Python Development**: Building projects and automating tasks.
 
 ### Education & Certificates
 - **BSc in Computer Science**, AUEB (In Progress)
